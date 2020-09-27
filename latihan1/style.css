@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(92, 51, 131, 0.658);
+}
+h1{
+    font-size: 130px;
+    color: crimson;
+    font-style: oblique;
+}
+
+p{
+    font-size: 80px;
+    font-style: oblique;
+    color: lawngreen;
+}
